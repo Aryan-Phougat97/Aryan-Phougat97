@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me gmail-phougataryan97@gmail.com
-- 😄 Pronouns: ALEXX
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I AM A SERIOUS GUY !!!
 
 <!---
