@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Aryan-Phougat97
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Frontend Projects
-- 📫 How to reach me gmail-phougataryan97@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I AM A SERIOUS GUY !!!
+🗡️ Aryan Phougat // The Silent Architect
+"I don’t chase clout. I build systems that make noise for me."
+— Assassin of Bugs, Crafter of Realities
+⚙️ About Me
+Full-stack developer in the making.
+Frontend specialist. Python practitioner. AI integrator.
+I build, deploy, automate… then disappear.
+🧠 Skills Arsenal
+Frontend: HTML • CSS • JavaScript
+Backend: Python • Node.js (in progress)
+AI & Tools: ChatGPT • Claude • LangChain • APIs
+Deployment: Vercel • Netlify • Render
+Version Control: Git & GitHub (deadly precise)
+⚔️ Current Mission
+Working on projects that merge AI, Web, and Automation.
+Always learning. Always improving. Never announcing.
+📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=X&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=X&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=X&layout=compact&theme=tokyonight&hide_border=true)
 
-<!---
-Aryan-Phougat97/Aryan-Phougat97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🕶️ Connect
+🌐 Portfolio • 💼 LinkedIn • 🐦 Twitter/X
+Chasing visions. Crafting realities.
+— Aryan Phougat
