@@ -33,6 +33,6 @@
 
 ## 🌐 Connect
 
-- **Portfolio:** [segv.tech](https://segv.tech)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- **X (Twitter):** [x.com/your-handle](https://x.com)
+- **Portfolio:** [segv.tech](https://aryan.segv.tech)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/aryanphougat97)
+- **X (Twitter):** [x.com/your-handle](https://x.com/@AryanPx7)
