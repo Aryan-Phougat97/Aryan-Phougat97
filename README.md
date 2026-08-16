@@ -12,7 +12,7 @@
 |---|---|
 | **Frontend Engineering** | React, TypeScript, JavaScript, Tailwind CSS, Zustand, Vite |
 | **Backend & APIs (Learning & Building)** | Python (DSA & Scripting), Go (Basic APIs & WebSockets), REST APIs |
-| **Tools & Platforms** | Git, GitHub, Linux, Vercel, Postman |
+| **Tools & Platforms** | Git, GitHub, MacOS(leading), Linux, Vercel, Postman |
 
 ---
 
