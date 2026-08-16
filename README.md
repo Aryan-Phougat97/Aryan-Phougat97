@@ -1,29 +1,38 @@
-🗡️ Aryan Phougat // The Silent Architect<br>
+<h1 align="center">Aryan Phougat</h1>
+<p align="center">
+  <b>Frontend & Product Engineer // Building @ SEGV</b><br>
+  Focused on crafting clean, high-performance web applications and bridging frontend UI with real-time backend systems.
+</p>
 
-"I don’t chase clout. I build systems that make noise for me."<br>
-— Assassin of Bugs, Crafter of Realities<br>
+---
 
-⚙️ About Me<br>
-Full-stack developer in the making.<br>
-Frontend specialist. Python practitioner. AI integrator.<br>
-I build, deploy, automate… then disappear.<br>
+## ⚡ Technical Focus
 
-🧠 Skills Arsenal<br>
-Frontend: HTML • CSS • JavaScript<br>
-Backend: Python • Node.js (in progress)<br>
-AI & Tools: ChatGPT • Claude • LangChain • APIs<br>
-Deployment: Vercel • Netlify • Render<br>
-Version Control: Git & GitHub (deadly precise)<br>
+| Category | Skills & Tools |
+|---|---|
+| **Frontend Engineering** | React, TypeScript, JavaScript, Tailwind CSS, Zustand, Vite |
+| **Backend & APIs (Learning & Building)** | Python (DSA & Scripting), Go (Basic APIs & WebSockets), REST APIs |
+| **Tools & Platforms** | Git, GitHub, Linux, Vercel, Postman |
 
-⚔️ Current Mission<br>
-Working on projects that merge AI, Web, and Automation.<br>
-Always learning. Always improving. Never announcing.<br>
+---
 
+## 🛠️ Projects & In-Flight Builds
 
-<br>
+- **[SigTrap](https://github.com/SEGV-org/sigtrap)** — Runtime telemetry and post-mortem debugging dashboard. Building the frontend cockpit to visualize error traces, state breadcrumbs, and live telemetry feeds.
+- **P2P Local File Drop** — Browser-based local file transfer application exploring WebRTC data channels and WebSocket signaling.
 
-🕶️ Connect<br>
-🌐 Portfolio • 💼 LinkedIn • 🐦 Twitter/X<br>
+---
 
-Chasing visions. Crafting realities.<br>
-— Aryan Phougat<br>
+## 🎯 Current Mission
+
+- Advancing algorithmic problem solving in **Python**.
+- Expanding backend fundamentals with **Go** and API integration.
+- Shipping fast, accessible user interfaces for hackathons and products.
+
+---
+
+## 🌐 Connect
+
+- **Portfolio:** [segv.tech](https://segv.tech)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **X (Twitter):** [x.com/your-handle](https://x.com)
